@@ -1,4 +1,4 @@
-language: node.js
+language: node_js
 node_js:
   - "stable"
 dist: focal
@@ -8,10 +8,4 @@ deploy:
   github_token: $github_token
   local_dir: build
   on:
-    branches:
-      only:
-        - main
-        - 100849882-Taylor
-        - 100851894-Justin
-        - 101443253-Amanda
-        - 101479568-Ethan
+    all_branches: true
