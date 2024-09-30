@@ -8,4 +8,10 @@ deploy:
   github_token: $github_token
   local_dir: build
   on:
-    branch: main
+    branches:
+      only:
+        - main
+        - 100849882-Taylor
+        - 100851894-Justin
+        - 101443253-Amanda
+        - 101479568-Ethan
