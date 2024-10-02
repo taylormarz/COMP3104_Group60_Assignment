@@ -10,4 +10,5 @@
 | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
 
-COMP 3104, or DevOps taught at George Brown College is a course that covers the CD/CI pipeling, version control systems and the importance of automation in the software engineering and deployment processes.
+COMP 3104, or DevOps taught at George Brown College is a course that covers the CD/CI pipeling, version control systems 
+and the importance of automation in the software engineering and deployment processes.

@@ -22,4 +22,6 @@
 
         George                    Brown                     College                                                             
 
-Located in downtown Toronto, George Brown College prioritizes real-world experiences for students. We’re also a city builder and community partner focused on social innovation, entrepreneurship and sustainability.
+Located in downtown Toronto, George Brown College prioritizes real-world experiences for students.
+We’re also a city builder and community partner focused on social innovation, entrepreneurship 
+and sustainability.
