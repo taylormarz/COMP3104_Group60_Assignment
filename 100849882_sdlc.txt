@@ -1,0 +1,15 @@
+SDLC stands for Software Development Lifecycle. According to Techopedia, SLDC is a systematic
+process for designing, developing, and testing software. It consists of a series of phases that
+guide the project from start to finish.
+
+There are seven stages throughout the SDLC, which are:
+
+- Project Planning
+- Gathering Requirements & Analysis
+- Design
+- Coding or Implementation
+- Testing
+- Deployment
+- Maintenance
+
+Following the SDLC is a cost-effective and time-efficient way to design and build high-quality software.
