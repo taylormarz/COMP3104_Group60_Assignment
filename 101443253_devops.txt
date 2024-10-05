@@ -14,3 +14,6 @@ For the duration of this course, I have the pleasure of working with three other
     - Taylor Martin
     - Ethan Sylvester
     - Justin Oskam
+
+Source:
+All of this information comes from the course page on d2l.
