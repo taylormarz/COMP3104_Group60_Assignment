@@ -1,0 +1,13 @@
+Importance of DevOps in the SDLC
+
+When combined with DevOps knowledge, the SDLC can ensure more efficient and reliable software delivery.
+
+An overview of the SDLC stages with DevOps in mind is:
+    1. Plan: Development team works with stakeholders to provide project goals and requirements.
+    2. Develop: Developers will write code according to the requirements established.
+    3. Build: DevOps teams commonly use tools like Jenkins, Travis CI, and GitLab CI/CD to automate this step.
+    4. Test: DevOps teams perform many different tests to ensure the product is functional.
+    5. Deploy: DevOps teams use tools like Terraform or CloudFormation to determine the required resources.
+    6. Operate: DevOps teams analyse the logs to resolve problems and ensure the product is operational.
+    7. Monitor: DevOps engineers must monitor the product they've aided to produce in order to detect bugs and improve the software.
+    8. Iterate: DevOps engineers will use feedback from their stakeholders and users to optimize and update the software.
