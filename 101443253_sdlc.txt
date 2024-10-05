@@ -11,3 +11,7 @@ An overview of the SDLC stages with DevOps in mind is:
     6. Operate: DevOps teams analyse the logs to resolve problems and ensure the product is operational.
     7. Monitor: DevOps engineers must monitor the product they've aided to produce in order to detect bugs and improve the software.
     8. Iterate: DevOps engineers will use feedback from their stakeholders and users to optimize and update the software.
+
+Source:
+This information comes from Nithin G's article on Medium.com.
+https://nithinguruswamy.medium.com/software-development-life-cycle-sdlc-for-devops-fd9bc2009cc3
