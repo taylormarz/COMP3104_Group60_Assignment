@@ -1,0 +1,8 @@
+Software Development Lifecycle (SDLC)* is important for many reasons, among those reasons are:
+1. Helps manage risks effectively via continuous monitoring.
+2. flexibility and adaptability via constant improvement and innovation
+3. Improves project management as it fosters understanding of scope, objectives and requirements
+4. Automation can be incorporated to reduce manual errors
+5. Allows for faster delivery with such a streamlined process
+
+*SDLC consists of planning, analysis, design, implementation, testing/integration, and maintenance, In that order.
