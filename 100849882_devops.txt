@@ -1,0 +1,37 @@
+According to Atlassian, "DevOps is a set of practices, tools, and cultural philosophy
+that automate and integrate the processes between software development and IT teams."
+
+The DevOps lifecycle consists of eight phases representing the processes, capabilities, and tools
+needed for development and operations. Throughout each phase, teams collaborate and communicate
+to maintain alignment, velocity, and quality.
+
+The eight phases of the DevOps life cycle are:
+
+- Discover
+- Plan
+- Build
+- Test
+- Deploy
+- Operate
+- Observe
+- Continuous Feedback
+
+There are many benefits to DevOps, as outlined in Atlassian's 2020 DevOps Trends Survey.
+"99% of respondents said DevOps had a positive impact on their organization."
+
+Some of the benefits that can be experienced through DevOps are:
+
+- Speed
+- Improved Collaboration
+- Rapid Deployment
+- Quality and Reliability
+- Security
+
+The challenges of adopting DevOps can be highlighted in a quote from Robert Krohn,
+Head of Engineering, DevOps at Atlassian.
+
+"DevOps isn't any single person's job. It's everyone's job."
+
+Convincing teams to embrace an overhaul of their team structure, break habits, and stop 
+working in silos are the biggest challenges organizations face when trying to transition
+to DevOps.
