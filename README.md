@@ -9,14 +9,11 @@
 // filled out by justin
 
 #### Instructions:
-Step 1: Clone the repository to your local machine
-	command: git clone https://github.com/taylormarz/COMP3104_Group60_Assignment.git
+Step 1: Clone the repository to your local machine.<br>command: git clone https://github.com/taylormarz/COMP3104_Group60_Assignment.git
 
-Step 2: Create/switch to your own branch
-	command: git checkout -b your-new-branch-name
+Step 2: Create/switch to your own branch.<br>command: git checkout -b your-new-branch-name
 
-Step 3: Push your new branch to the remote repository
-	command: git push -u origin 'your-new-branch-name'
+Step 3: Push your new branch to the remote repository.<br>command: git push -u origin 'your-new-branch-name'
 
 // add other steps if you guys think we need them - otherwise delete this line
 
