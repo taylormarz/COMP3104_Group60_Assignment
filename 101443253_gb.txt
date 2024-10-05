@@ -4,3 +4,7 @@ George Brown College is located in Toronto, Ontario. There are three campuses ne
     - St. James Campus.
     - Casa Loma Campus.
     - Waterfront Campus.
+
+Source:
+All of this information comes from the GBC About page.
+https://www.georgebrown.ca/about
