@@ -26,4 +26,12 @@ All branches of this repository have also been set up successfully through Travi
 An example of the files/packages needed to do this can be found in the ci-files directory.
 
 #### Branching Strategy:
-// filled out by ethan
+
+The purpose of a branching strategy is threefold:
+    - Protect the main branch (the deployed product) from errors, vulnerabilities or code that has not been quality checked and peer reviewer
+    - Enable developers to work on / introduce seperate features or aspects into a project without having to frequently update and / or pull everything everyone is working on at the same time which would introduce breaking bugs throughout the entire process
+    - Enable peer review, QA checks, and safety checks through pull requests.
+
+Our branching stategy was to use a 'per-developer' branch as opposed to a 'per feature'. This means that every developer involve had their own branch to commit their own code. When working with Travis, each developer had their own package.json which created a merge conflict. This was easily remedied through github's application and allowed for seamless integration of each developers code into the main branch.
+
+At this point, we left out branches open, although they can be closed if needed. We determined that there was no sense in closing branches that could potentially be used again, and would therefore be recreated, wasting development time. 
