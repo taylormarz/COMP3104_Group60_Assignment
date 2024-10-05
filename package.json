@@ -1,0 +1,21 @@
+{
+  "name": "comp3104_group60_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+
+    "url": "git+https://github.com/taylormarz/COMP3104_Group60_Assignment.git"
+  },
+  "keywords": [],
+  "author": "group 60",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylormarz/COMP3104_Group60_Assignment/issues"
+  },
+  "homepage": "https://github.com/taylormarz/COMP3104_Group60_Assignment#readme"
+}
