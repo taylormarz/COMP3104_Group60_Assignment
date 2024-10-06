@@ -9,7 +9,9 @@
 **Member 4:** Amanda Gurney (`101443253`) [Amanda's GitHub](https://github.com/TheGeneralJay) <br>
 
 #### Project Description:
-// filled out by justin
+This is a group effort lead by Taylor wherein we will be exploring the concepts behind version control, specifically with git and github. In addition to this, we will also be implementing CI/CD (Continuous Itegration/Continuous Deployment) principles by way of Travis CI; This will be so we can monitor the health of our github deployment and ensure it stays online an operation as intended. After making several commits, we must then merge all 4 directories into the main branch and continually pull updates to our local branches. Lastly, each group member will update the communal README.md file (like so), and then our team lead will create the pull request template prior to submission.
+
+Such an assignment will do, and has done, well to solidify the concepts and methods behind github and version control at large but within a simulated and relatively safe environment. We will have had exposure to merge conflicts, file structure navigation, and implementing branching strategy to name a few.
 
 #### Instructions:
 Step 1: Clone the repository to your local machine.<br>command: git clone https://github.com/taylormarz/COMP3104_Group60_Assignment.git
