@@ -1,0 +1,16 @@
+COMP3104 DevOps Course
+
+The DevOps course offered by George Brown College is being taught by Professor Pritesh Patel.
+
+COURSE SCHEDULE:
+    - Wednesdays (6PM - 9PM)
+
+Within this course we will be learning about the intricacies of being a DevOps engineer. A variety of DevOps related topics will be covered, such as;
+    - DevOps Principles: Understanding the fundamental principles that guide DevOps practices.
+    - Tools and Technologies: Exploring the tools and technologies that today's DevOps engineers utilize.
+    - Security in DevOps: Integrating best practices regarding security into the DevOps pipeline.
+
+For the duration of this course, I have the pleasure of working with three other very talented software development students:
+    - Taylor Martin
+    - Ethan Sylvester
+    - Justin Oskam
