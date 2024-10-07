@@ -1,4 +1,4 @@
-COMP3104 DevOps Course
+COMP3104 DevOps Course - Amanda Gurney
 
 The DevOps course offered by George Brown College is being taught by Professor Pritesh Patel.
 
