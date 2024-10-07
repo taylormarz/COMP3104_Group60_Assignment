@@ -1,4 +1,4 @@
-Importance of DevOps in the SDLC
+Importance of DevOps in the SDLC - Amanda Gurney
 
 When combined with DevOps knowledge, the SDLC can ensure more efficient and reliable software delivery.
 
