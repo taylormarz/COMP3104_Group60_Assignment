@@ -18,8 +18,6 @@ Step 2: Create/switch to your own branch.<br>command: git checkout -b your-new-b
 
 Step 3: Push your new branch to the remote repository.<br>command: git push -u origin 'your-new-branch-name'
 
-// add other steps if you guys think we need them - otherwise delete this line
-
 #### CI/CD Details:
 This project is utilizing the Travis CI tool for continuous integration.
 All branches of this repository have also been set up successfully through Travis.
